@@ -3,3 +3,8 @@ Shopping list
 Tacos
 Tacos
 more tacos
+fruits
+veggies
+nuts
+whole grain
+cervezas
